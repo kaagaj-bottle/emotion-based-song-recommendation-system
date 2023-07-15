@@ -4,3 +4,6 @@
 [submodule "emotion-detection-project-ml-endpoint"]
 	path = emotion-detection-project-ml-endpoint
 	url = https://github.com/kaagaj-bottle/emotion-detection-project-ml-endpoint.git
+[submodule "emotion-detection-project-node-backend"]
+	path = emotion-detection-project-node-backend
+	url = https://github.com/kaagaj-bottle/emotion-detection-project-node-backend.git
